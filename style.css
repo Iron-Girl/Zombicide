@@ -1,0 +1,99 @@
+body {
+    background-color: #1a180d;
+    color: white;
+    font-family: Oxanium;
+    text-align: center;
+    padding: 20px;
+}
+
+.oxanium-<uniquifier> {
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+nav{
+    padding: 10px;
+    position: sticky;
+    top: 50px;
+}
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav li{
+    width: 20%;
+    display: inline-block;
+    font-size: 24px;
+}
+nav li a{
+    text-decoration: none;
+}
+
+table {
+    text-align: center;
+}
+
+aside {
+    float: left;
+}
+
+img {
+    padding: 20px;
+}
+
+form label{
+    padding-right: 10px;
+}
+
+form input {
+    margin-bottom: 20px;
+}
+
+#First-Name {
+    padding-right: 150px;
+}
+
+#Last-Name {
+    padding-right: 150px;
+}
+
+#Email {
+    padding-right: 150px;
+}
+
+#Message {
+    padding-bottom: 120px;
+    padding-right: 150px;
+}
+
+#Submit {
+    
+}
+
+footer{
+    padding: 20px;
+    position: sticky;
+    top: 106px;
+}
+footer ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+footer li{
+    width: 15%;
+    display: inline-block;
+    font-size: 24px;
+}
+footer li a{
+    text-decoration: none;
+    color: white;
+}
+
+footer p a {
+    text-decoration: none;
+    color: white;
+}
